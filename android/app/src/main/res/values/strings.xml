@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">NEW P K AGENCY</string>
+    <string name="title_activity_main">NEW P K AGENCY</string>
+    <string name="package_name">com.pkagency.app</string>
+    <string name="custom_url_scheme">com.pkagency.app</string>
+</resources>
