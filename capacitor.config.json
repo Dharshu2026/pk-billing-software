@@ -1,5 +1,8 @@
 {
   "appId": "com.pkagency.app",
   "appName": "NEW P K AGENCY",
-  "webDir": "dist"
+  "webDir": "public/build", 
+  "server": {
+    "androidScheme": "https"
+  }
 }
