@@ -1,9 +1,8 @@
 {
   "appId": "com.pkagency.app",
   "appName": "NEW P K AGENCY",
-  "webDir": "public",
+  "webDir": "public", 
   "server": {
-    "url": "http://127.0.0.1:8000", 
-    "cleartext": true
+    "androidScheme": "https"
   }
 }
